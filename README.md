@@ -1,6 +1,6 @@
 # Taha Shaheen
 
-I’m a Computer Science PhD student at **Arizona State University**, in both the **Cooperative Robotic Systems (CRS) Lab** and the [**Interactive Robotics Laboratory**](https://interactive-robotics.engineering.asu.edu/ "Interactive Robotics Laboratory home page"). I study embodied AI and robot learning.
+I’m a Computer Science PhD student at **Arizona State University**, in both the [**Cooperative Robotic Systems (CRS) Lab**](https://crslabasu.github.io/) and the [**Interactive Robotics Laboratory**](https://interactive-robotics.engineering.asu.edu/ "Interactive Robotics Laboratory home page"). I study embodied AI and robot learning.
 
 ## 🔬 Research
 
