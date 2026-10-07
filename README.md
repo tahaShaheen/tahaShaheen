@@ -5,7 +5,7 @@ I’m a Computer Science PhD student at **Arizona State University**, in the **C
 ## Research
 
 - **Reinforcement learning from human feedback (RLHF):** I study how people’s misunderstanding of an environment affects the feedback they provide for reward learning. My first-author [IJCAI 2026 paper](https://www.ijcai.org/proceedings/2026/37) examines this problem.
-- **Multimodal in-context reinforcement learning (M-ICRL):** I build hierarchical in-context learning pipelines using vision-language models to autonomously teach tasks to quadrupedal robots. In early experiments, my pipeline enabled a Unitree Go2 to learn 20 tasks without gradient updates.
+- **Multimodal in-context reinforcement learning (M-ICRL):** I build hierarchical in-context morphology-agnostic learning pipelines using vision-language models to autonomously teach a library of tasks to robots without gradient updates.
 
 ## Featured project
 
